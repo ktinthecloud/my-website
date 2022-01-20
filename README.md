@@ -5,5 +5,5 @@ Some Changes
 
 Now editing on update-readme branch
 
-Updated locally, then remotely
+Updates made on main on Github before rebase
 
